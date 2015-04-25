@@ -1,0 +1,81 @@
+activity - activity name, string.
+subject - subject who performed the activity, ts range is from 1 to 30.                 
+tBodyGyroMag.max.. - largest value in tBodyGyroMag array
+tBodyGyroMag.min.. - Smallest value in tBodyGyroMag array     
+tBodyGyroMag.sma.. - Signal magnitude area of tBodyGyroMag
+tBodyGyroMag.arCoeff..2 - Autorregresion coefficients with Burg order equal to 2 for tBodyGyroMag
+tBodyGyroMag.arCoeff..3 - Autorregresion coefficients with Burg order equal to 3 for tBodyGyroMag
+tBodyGyroMag.arCoeff..4 - Autorregresion coefficients with Burg order equal to 4 for tBodyGyroMag
+fBodyGyro.skewness...X - skewness of the frequency domain signal X
+fBodyGyro.kurtosis...X - kurtosis of the frequency domain signal X
+fBodyGyro.skewness...Y - skewness of the frequency domain signal Y
+fBodyGyro.bandsEnergy...9.16 - Energy of a frequency interval within the 64 bins of the FFT of each window 9.16
+fBodyGyro.bandsEnergy...17.24 - Energy of a frequency interval within the 64 bins of the FFT of each window 17.24
+fBodyGyro.bandsEnergy...25.32 - Energy of a frequency interval within the 64 bins of the FFT of each window 25.32
+fBodyAcc.energy...Y - Energy measure. Sum of the squares divided by the number of values Y. 
+fBodyAcc.energy...Z - Energy measure. Sum of the squares divided by the number of values Z. 
+fBodyAcc.iqr...X -Interquartile range X
+fBodyAcc.entropy...Z - Signal entropy Z
+fBodyAcc.maxInds.X - index of the frequency component with largest magnitude X
+fBodyAcc.maxInds.Y - index of the frequency component with largest magnitude Y
+fBodyAccJerk.std...Y - Standard deviation Y
+fBodyAccJerk.std...Z - Standard deviation Z
+fBodyAccJerk.mad...X - Median absolute deviation X
+fBodyAccJerk.max...Z - largest value in array for Z
+fBodyAccJerk.min...X - smallest value in array for X
+fBodyAccJerk.min...Y - smallest value in array for Y
+fBodyAccJerk.bandsEnergy...57.64 - Energy of a frequency interval within the 64 bins of the FFT of each window 57.64
+fBodyAccJerk.bandsEnergy...1.16 - Energy of a frequency interval within the 64 bins of the FFT of each window 1.16
+fBodyAccJerk.bandsEnergy...17.32 - Energy of a frequency interval within the 64 bins of the FFT of each window 17.32
+fBodyAccJerk.bandsEnergy...1.8.1 - Energy of a frequency interval within the 64 bins of the FFT of each window 1.8.1
+fBodyAccJerk.bandsEnergy...9.16.1 - Energy of a frequency interval within the 64 bins of the FFT of each window 9.16.1
+fBodyAccJerk.bandsEnergy...17.24.1 - Energy of a frequency interval within the 64 bins of the FFT of each window 17.24.1
+fBodyAcc.bandsEnergy...1.24 - Energy of a frequency interval within the 64 bins of the FFT of each window 1.24
+fBodyAcc.bandsEnergy...9.16.1 - Energy of a frequency interval within the 64 bins of the FFT of each window 9.16.1
+fBodyGyro.bandsEnergy...25.48 - Energy of a frequency interval within the 64 bins of the FFT of each window 25.48
+fBodyGyro.bandsEnergy...17.24.1 - Energy of a frequency interval within the 64 bins of the FFT of each window 17.24.1
+fBodyAcc.kurtosis...Z - kurtosis of the frequency domain signal Z
+fBodyAcc.bandsEnergy...17.24 - Energy of a frequency interval within the 64 bins of the FFT of each window 17.24
+fBodyAccJerk.bandsEnergy...49.64.2 - Energy of a frequency interval within the 64 bins of the FFT of each window 49.64.2
+fBodyGyro.mean...X - Mean value X
+fBodyAccJerk.bandsEnergy...1.24.1 - Energy of a frequency interval within the 64 bins of the FFT of each window 1.24.1
+fBodyAccJerk.bandsEnergy...9.16.2  - Energy of a frequency interval within the 64 bins of the FFT of each window 9.16.2
+tGravityAcc.mean...Z - Mean value Z
+tGravityAcc.std...X - Standard deviation X             
+tGravityAcc.std...Y - Standard deviation Y
+tGravityAcc.sma.. - Signal magnitude area of tGravityAcc
+tGravityAcc.energy...X - Energy measure. Sum of the squares divided by the number of values X. 
+tGravityAcc.energy...Y - Energy measure. Sum of the squares divided by the number of values Y.            
+tGravityAcc.std...Z - Standard deviation Z
+tGravityAcc.mad...X - Median absolute deviation X
+tGravityAcc.mad...Y - Median absolute deviation Y
+tBodyAccJerk.min...Y - smallest value in array for Y
+tBodyAccJerk.min...Z - smallest value in array for Z
+tBodyAccJerk.sma.. - Signal magnitude area of tBodyAccJerk             
+tBodyAccJerk.arCoeff...X.2 - Autorregresion coefficients with Burg order equal to X.2 for tBodyGyroMag
+tBodyAccJerk.arCoeff...X.3 - Autorregresion coefficients with Burg order equal to X.3 for tBodyGyroMag        
+tBodyAccJerk.arCoeff...X.4 - Autorregresion coefficients with Burg order equal to X.4 for tBodyGyroMag
+tBodyAccJerk.energy...X - Energy measure. Sum of the squares divided by the number of values X.       
+tBodyAccJerk.energy...Y - Energy measure. Sum of the squares divided by the number of values Y.
+tBodyAccJerk.energy...Z - Energy measure. Sum of the squares divided by the number of values Z.
+tBodyGyroJerk.arCoeff...Z.4 - Autorregresion coefficients with Burg order equal to Z.4 for tBodyGyroMag
+tBodyGyroJerk.correlation...X.Y - correlation coefficient between two signals X and Y
+tBodyGyroJerk.correlation...X.Z - correlation coefficient between two signals X and Z
+tBodyAccMag.arCoeff..1 - Autorregresion coefficients with Burg order equal to 1 for tBodyGyroMag
+tBodyAccMag.arCoeff..2 - Autorregresion coefficients with Burg order equal to 2 for tBodyGyroMag
+tBodyAccMag.arCoeff..3 - Autorregresion coefficients with Burg order equal to 2 for tBodyGyroMag
+tBodyGyroJerk.correlation...Y.Z - correlation coefficient between two signals Y and Z
+tBodyAccMag.mean.. - Mean value of tBodyAccMag
+tBodyAccMag.std.. - Standard deviation of tBodyAccMag
+tBodyAccJerk.arCoeff...Z.4 - Autorregresion coefficients with Burg order equal to Z.4 for tBodyGyroMag
+tBodyGyro.mean...Y - Mean value Y
+tBodyAccJerk.correlation...X.Y - correlation coefficient between two signals X and Y
+tBodyGyro.max...X - largest value in array for X
+tBodyGyro.min...Z - smallest value in array for Z
+tBodyGyro.max...Y - largest value in array for Y
+tBodyGyro.arCoeff...Z.3 - Autorregresion coefficients with Burg order equal to Z.3 for tBodyGyroMag
+tBodyGyroJerk.mean...X - Mean value X
+tBodyGyro.arCoeff...Z.4 - Autorregresion coefficients with Burg order equal to Z.4 for tBodyGyroMag
+tBodyGyro.entropy...X - Signal entropy X
+tBodyGyro.arCoeff...X.3 - Autorregresion coefficients with Burg order equal to X.3 for tBodyGyroMag
+tBodyGyro.entropy...Y - Signal entropy Y
